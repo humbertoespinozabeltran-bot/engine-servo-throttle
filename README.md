@@ -1,2 +1,2 @@
 # Engine-Throttle
-Okay, this is the actual project, the first part is the structure that physically holds the servo that accelerates our engine, this structure is mounted on our carburetor with a common air filter adapter, were able to buy it as an air filter kit, or 3d print it as me,
+Okay, this is the actual project, the first part is the structure that physically holds the servo that accelerates our engine, this structure is mounted on our carburetor with a common air filter adapter, were able to buy it as an air filter kit, or 3d print it as me,the structure also takes the place where our air filter is supposed to be, so, it also works like a spacer and yes we can plug our air filter again
