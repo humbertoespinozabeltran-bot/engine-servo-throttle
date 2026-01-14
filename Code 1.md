@@ -1,0 +1,1 @@
+Now here it is the ino file to control the servo with analogic signal, usually driven by a trimpot.
