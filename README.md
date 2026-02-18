@@ -55,4 +55,46 @@ All parts were assembled and tested in CAD with motion constraints to ensure cor
 ---
 
 ## Repository Structure
+hardware/ → CAD models, printable parts and images
+firmware/ → Servo control firmware
+wiring/ → Electrical connection references
+docs/ → Project documentation
+
+---
+
+## Current Status
+
+Functional CAD prototype complete with validated linkage motion and throttle control geometry.
+
+Mechanical integration and firmware base implementation complete.
+
+---
+
+## Demonstration
+
+Servo motion drives throttle movement through linkage system:
+
+Idle ↔ Wide Open Throttle movement simulated and validated in CAD.
+
+---
+
+## Future Development
+
+Planned improvements include:
+
+- Closed-loop RPM control
+- Remote throttle operation
+- Improved universal mounting compatibility
+- Engine automation features
+
+See `docs/future-work.md` for details.
+
+---
+
+## Manufacturing Notes
+
+Parts are designed for FDM 3D printing. Minor dimensional adjustments may be required depending on printer tolerances.
+
+Linkage lengths may be tuned per engine configuration.
+
 
